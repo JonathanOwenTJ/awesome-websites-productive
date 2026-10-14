@@ -56,6 +56,8 @@ A curated list :book: of awesome places on the internet for learning and to boos
 <li><a href="http://www.unplugthetv.com/">Unplug the TV</a></li>
 <li><a href="http://www.youtube.com/user/Vsacue/videos">VSauce</a></li>
 
+<li><a href="https://ajun-industry.packscena.com/">Ajun Industry</a> - Chinese-language industry-chain reference library with illustrated explainers and company relationships.</li>
+<li><a href="https://subatlas.packscena.com/">SubAtlas</a> - Subscription-tool offer catalog with comparisons, help guides and provider-specific access conditions.</li>
 </ul>
 
 
