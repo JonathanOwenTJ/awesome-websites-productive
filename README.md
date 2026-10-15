@@ -58,6 +58,9 @@ A curated list :book: of awesome places on the internet for learning and to boos
 
 <li><a href="https://ajun-industry.packscena.com/">Ajun Industry</a> - Chinese-language industry-chain reference library with illustrated explainers and company relationships.</li>
 <li><a href="https://subatlas.packscena.com/">SubAtlas</a> - Subscription-tool offer catalog with comparisons, help guides and provider-specific access conditions.</li>
+<li><a href="https://ailab.packscena.com/">AI Lab</a> - Chinese browser utility hub with basic image compression and local text tools; advanced compression requires sign-in and points.</li>
+<li><a href="https://resumeplot.com/">ResumePlot</a> - Bilingual local resume editing with PDF and JSON export; optional AI, cloud saving and sharing require an account.</li>
+<li><a href="https://dishvivid.com/">DishVivid</a> - Food-photo editor with local manual lighting, color and crop adjustments; optional AI edits require sign-in and an available allowance.</li>
 </ul>
 
 
